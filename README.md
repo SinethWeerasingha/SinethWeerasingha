@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="center">~/whoami</h2>
+<h2 align="center">Sineth Chanthula</h2>
 
 <pre align="center">
   ..........................                                                                  ......................::::--
