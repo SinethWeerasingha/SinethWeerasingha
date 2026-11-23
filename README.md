@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="./assets/ascii_portrait_detailed.png"
+    src="./portrait_ascii_github_dark.png"
     width="420"
     alt="Sineth's Braille ASCII portrait"
   />
